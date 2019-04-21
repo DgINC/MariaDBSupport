@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MariaDBSupport",
+	"Description": "Exposing MariaDBConnector functionality to UE4",
+	"Category": "Other",
+	"CreatedBy": "Dg",
+	"CreatedByURL": "http://old-shoe.ru/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MariaDBSupport",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
